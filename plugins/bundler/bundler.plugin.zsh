@@ -23,7 +23,6 @@ bundled_commands=(
   puma
   rackup
   rainbows
-  rake
   rspec
   shotgun
   sidekiq
